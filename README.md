@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Incident-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Incident-Management?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Incident-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Incident-Management?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Incident-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Incident-Management?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Incident-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Incident-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -87,61 +87,61 @@ The table below lists leading commercial SaaS incident response and on-call aler
 
 Self-hosted, transparent, and sovereign incident management platforms allow engineering teams to retain full ownership over sensitive telemetry data and eliminate unpredictable per-seat SaaS costs.
 
-The repositories below are **sorted in descending order by GitHub Star count**. Each star badge links directly to that repository's stargazers page.
+The repositories below are **sorted in descending order by GitHub Stars_Count**. Each Stars_Badge links directly to that repository's stargazers page.
 
-1. **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
+1. **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![GitHub_Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
    *A self-hosted, responsive uptime monitoring and notification platform.*  
    - **Highlights:** Monitors HTTP(s), TCP, DNS, Docker containers, and ping intervals; pushes instant alerts to 90+ notification services (Telegram, Discord, Slack, Webhooks, Signal); includes beautiful public status pages.
 
-2. **[Keep](https://github.com/keephq/keep)** [![GitHub stars](https://img.shields.io/github/stars/keephq/keep?style=social&color=white)](https://github.com/keephq/keep/stargazers)  
+2. **[Keep](https://github.com/keephq/keep)** [![GitHub_Stars](https://img.shields.io/github/stars/keephq/keep?style=social&color=white)](https://github.com/keephq/keep/stargazers)  
    *The open-source AIOps, alert management, and incident response orchestrator.*  
    - **Highlights:** Aggregates alerts across all monitoring platforms (Datadog, Grafana, CloudWatch, Sentry), deduplicates noisy event streams, correlates related failures into single incidents, and triggers automated remediation workflows.
 
-3. **[Prometheus Alertmanager](https://github.com/prometheus/alertmanager)** [![GitHub stars](https://img.shields.io/github/stars/prometheus/alertmanager?style=social&color=white)](https://github.com/prometheus/alertmanager/stargazers)  
+3. **[Prometheus Alertmanager](https://github.com/prometheus/alertmanager)** [![GitHub_Stars](https://img.shields.io/github/stars/prometheus/alertmanager?style=social&color=white)](https://github.com/prometheus/alertmanager/stargazers)  
    *The standard alert handling engine for the Cloud Native Prometheus ecosystem.*  
    - **Highlights:** Handles alert deduplication, grouping, rate-limiting, and routing to downstream receivers (Email, Opsgenie, PagerDuty, Slack, Webhook); features sophisticated silencing and alert inhibition hierarchies.
 
-4. **[Netflix Dispatch](https://github.com/Netflix/dispatch)** [![GitHub stars](https://img.shields.io/github/stars/Netflix/dispatch?style=social&color=white)](https://github.com/Netflix/dispatch/stargazers)  
+4. **[Netflix Dispatch](https://github.com/Netflix/dispatch)** [![GitHub_Stars](https://img.shields.io/github/stars/Netflix/dispatch?style=social&color=white)](https://github.com/Netflix/dispatch/stargazers)  
    *Netflix's battle-tested incident management and response orchestration engine.*  
    - **Highlights:** Coordinates the entire incident lifecycle by automatically spinning up dedicated Slack channels, assembling incident commanders, provisioning Google Docs templates for post-mortems, and updating Jira tasks.
 
-5. **[Cabot](https://github.com/arachnys/cabot)** [![GitHub stars](https://img.shields.io/github/stars/arachnys/cabot?style=social&color=white)](https://github.com/arachnys/cabot/stargazers)  
+5. **[Cabot](https://github.com/arachnys/cabot)** [![GitHub_Stars](https://img.shields.io/github/stars/arachnys/cabot?style=social&color=white)](https://github.com/arachnys/cabot/stargazers)  
    *Lightweight, self-hosted infrastructure monitoring and alert service (like an on-premise PagerDuty).*  
    - **Highlights:** Checks metrics from Graphite, Jenkins, and HTTP endpoints; triggers multi-channel telephone, SMS (Twilio), and chat notifications to on-call engineers when thresholds fail.
 
-6. **[TheHive](https://github.com/TheHive-Project/TheHive)** [![GitHub stars](https://img.shields.io/github/stars/TheHive-Project/TheHive?style=social&color=white)](https://github.com/TheHive-Project/TheHive/stargazers)  
+6. **[TheHive](https://github.com/TheHive-Project/TheHive)** [![GitHub_Stars](https://img.shields.io/github/stars/TheHive-Project/TheHive?style=social&color=white)](https://github.com/TheHive-Project/TheHive/stargazers)  
    *Enterprise-grade security incident response and case management platform (SOC & CIRM).*  
    - **Highlights:** Enables collaborative real-time investigation of security incidents, automated task distribution, MISP intelligence synchronization, and Cortex observable analysis.
 
-7. **[Grafana OnCall](https://github.com/grafana/oncall)** [![GitHub stars](https://img.shields.io/github/stars/grafana/oncall?style=social&color=white)](https://github.com/grafana/oncall/stargazers)  
+7. **[Grafana OnCall](https://github.com/grafana/oncall)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/oncall?style=social&color=white)](https://github.com/grafana/oncall/stargazers)  
    *Developer-friendly incident response and on-call schedule orchestrator by Grafana.*  
    - **Highlights:** Tightly integrates with Grafana Alerting and Prometheus; manages complex on-call escalation policies, shift swaps, and bi-directional alert triage within Slack and Telegram.
 
-8. **[GoAlert](https://github.com/target/goalert)** [![GitHub stars](https://img.shields.io/github/stars/target/goalert?style=social&color=white)](https://github.com/target/goalert/stargazers)  
+8. **[GoAlert](https://github.com/target/goalert)** [![GitHub_Stars](https://img.shields.io/github/stars/target/goalert?style=social&color=white)](https://github.com/target/goalert/stargazers)  
    *Open-source on-call scheduling, notification routing, and automated escalation engine by Target.*  
    - **Highlights:** Built for enterprise resilience (Apache-2.0); provides multi-tier on-call rotations, escalation policies with conditional timeouts, and voice, SMS, email, and Slack paging channels.
 
-9. **[Alerta](https://github.com/alerta/alerta)** [![GitHub stars](https://img.shields.io/github/stars/alerta/alerta?style=social&color=white)](https://github.com/alerta/alerta/stargazers)  
+9. **[Alerta](https://github.com/alerta/alerta)** [![GitHub_Stars](https://img.shields.io/github/stars/alerta/alerta?style=social&color=white)](https://github.com/alerta/alerta/stargazers)  
    *Scalable, unified alert console and incident aggregation backend.*  
    - **Highlights:** Ingests alerts from Prometheus, Nagios, Zabbix, AWS CloudWatch, and custom webhooks; provides alert deduplication, severity prioritization, status tracking, and web dashboard visualization.
 
-10. **[DFIR-IRIS](https://github.com/dfir-iris/iris-web)** [![GitHub stars](https://img.shields.io/github/stars/dfir-iris/iris-web?style=social&color=white)](https://github.com/dfir-iris/iris-web/stargazers)  
+10. **[DFIR-IRIS](https://github.com/dfir-iris/iris-web)** [![GitHub_Stars](https://img.shields.io/github/stars/dfir-iris/iris-web?style=social&color=white)](https://github.com/dfir-iris/iris-web/stargazers)  
     *Collaborative digital forensics and incident response (DFIR) case management platform.*  
     - **Highlights:** Designed for security analysts and CERTs to manage investigation timelines, track malicious indicators of compromise (IoCs), and generate structured post-incident reporting.
 
-11. **[ElastAlert 2](https://github.com/jertel/elastalert2)** [![GitHub stars](https://img.shields.io/github/stars/jertel/elastalert2?style=social&color=white)](https://github.com/jertel/elastalert2/stargazers)  
+11. **[ElastAlert 2](https://github.com/jertel/elastalert2)** [![GitHub_Stars](https://img.shields.io/github/stars/jertel/elastalert2?style=social&color=white)](https://github.com/jertel/elastalert2/stargazers)  
     *Modular, rule-based alerting and anomaly detection engine for Elasticsearch and OpenSearch.*  
     - **Highlights:** Evaluates log anomalies (spike, flatline, blacklist, cardinality) and routes incident alerts directly to Jira, PagerDuty, VictorOps, Slack, Telegram, and Email.
 
-12. **[versus-incident](https://github.com/VersusControl/versus-incident)** [![GitHub stars](https://img.shields.io/github/stars/VersusControl/versus-incident?style=social&color=white)](https://github.com/VersusControl/versus-incident/stargazers)  
+12. **[versus-incident](https://github.com/VersusControl/versus-incident)** [![GitHub_Stars](https://img.shields.io/github/stars/VersusControl/versus-incident?style=social&color=white)](https://github.com/VersusControl/versus-incident/stargazers)  
     *Autonomous AI SRE agent and Go-powered incident management coordination microservice.*  
     - **Highlights:** Continuously monitors distributed microservices, detects anomalies, routes multi-channel alerts (Slack, Telegram, AWS SNS), and tracks on-call acknowledgment windows.
 
-13. **[LinkedIn Iris](https://github.com/linkedin/iris)** [![GitHub stars](https://img.shields.io/github/stars/linkedin/iris?style=social&color=white)](https://github.com/linkedin/iris/stargazers)  
+13. **[LinkedIn Iris](https://github.com/linkedin/iris)** [![GitHub_Stars](https://img.shields.io/github/stars/linkedin/iris?style=social&color=white)](https://github.com/linkedin/iris/stargazers)  
     *LinkedIn's highly configurable automated escalation and paging service.*  
     - **Highlights:** Handles massive multi-team paging volume with intelligent escalation chains, notification throttling, shift planning, and phone call/SMS routing.
 
-14. **[Catalyst](https://github.com/SecurityBrewery/catalyst)** [![GitHub stars](https://img.shields.io/github/stars/SecurityBrewery/catalyst?style=social&color=white)](https://github.com/SecurityBrewery/catalyst/stargazers)  
+14. **[Catalyst](https://github.com/SecurityBrewery/catalyst)** [![GitHub_Stars](https://img.shields.io/github/stars/SecurityBrewery/catalyst?style=social&color=white)](https://github.com/SecurityBrewery/catalyst/stargazers)  
     *Self-hosted open-source incident response platform and ticket automation engine.*  
     - **Highlights:** Automates alert handling workflows via reactive triggers (HTTP webhooks and Python actions); provides investigation timelines, MITRE ATT&CK tagging, and custom operational fields.
 
