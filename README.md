@@ -87,7 +87,7 @@ The table below lists leading commercial SaaS incident response and on-call aler
 
 Self-hosted, transparent, and sovereign incident management platforms allow engineering teams to retain full ownership over sensitive telemetry data and eliminate unpredictable per-seat SaaS costs.
 
-The repositories below are **sorted in descending order by GitHub Stars_Count**. Each Stars_Badge links directly to that repository's stargazers page.
+The repositories below are **sorted in descending order by GitHub_Stars_Count**. Each Stars_Badge links directly to that repository's stargazers page.
 
 1. **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![GitHub_Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
    *A self-hosted, responsive uptime monitoring and notification platform.*  
